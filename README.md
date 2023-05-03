@@ -1,1 +1,1 @@
-# AMES housing dataset
+# data
